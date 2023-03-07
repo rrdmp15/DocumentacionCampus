@@ -10,3 +10,7 @@ console.log("El caracter en el indice 24 es '" + metodoCharAt.charAt(24) + "'")
 let metodocharCodeAt = "Unicode"
 
 console.log("El valor Unicode de 'U' es '" + metodocharCodeAt.charCodeAt(0) + "'")
+
+let metodoFromCharCode = String.fromCharCode(68,65,89,73,83)
+
+console.log(metodoFromCharCode)
