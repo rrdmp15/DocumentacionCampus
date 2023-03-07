@@ -20,3 +20,7 @@ let metodoConcat1 =['4', '5', '6']
 let metodoConcat2 = metodoConcat.concat(metodoConcat1)
 
 console.log(metodoConcat2)
+
+let metodoIndexOf = "Clear Sky"
+
+console.log(metodoIndexOf.indexOf("Sky"))
