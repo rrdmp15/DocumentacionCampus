@@ -38,3 +38,6 @@ let metodoReplace = "Ayer compre un nuevo auto"
 
 console.log(metodoReplace.replace("auto", "telefono"))
 
+let metodoSlice = "Cortemos esta string"
+
+console.log(metodoSlice.slice(9, -1))
