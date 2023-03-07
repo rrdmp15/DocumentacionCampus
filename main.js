@@ -48,3 +48,7 @@ console.log(metodoSlice.slice(9, -1))
 let metodoToLowerCase = "TODO EN MAYUSCULAS"
 
 console.log(metodoToLowerCase.toLowerCase())
+
+let metodoToUpperCase = "todo en minisculas"
+
+console.log(metodoToUpperCase.toUpperCase())
