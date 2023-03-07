@@ -14,3 +14,9 @@ console.log("El valor Unicode de 'U' es '" + metodocharCodeAt.charCodeAt(0) + "'
 let metodoFromCharCode = String.fromCharCode(68,65,89,73,83)
 
 console.log(metodoFromCharCode)
+
+let metodoConcat =['1', '2', '3']
+let metodoConcat1 =['4', '5', '6']
+let metodoConcat2 = metodoConcat.concat(metodoConcat1)
+
+console.log(metodoConcat2)
