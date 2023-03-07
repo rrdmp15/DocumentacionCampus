@@ -56,3 +56,4 @@ console.log(metodoToUpperCase.toUpperCase())
 let metodoTrim = "    Black     "
 
 console.log(metodoTrim.trim())
+console.log(metodoTrim.trimEnd())
