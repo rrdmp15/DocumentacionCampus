@@ -33,3 +33,8 @@ console.log(metodoLocaleCompare.localeCompare(metodoLocaleCompare1))
 let metodoRepeat = "REPITE"
 
 console.log(metodoRepeat.repeat(3))
+
+let metodoReplace = "Ayer compre un nuevo auto"
+
+console.log(metodoReplace.replace("auto", "telefono"))
+
