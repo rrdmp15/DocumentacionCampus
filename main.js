@@ -44,3 +44,7 @@ console.log(metodoReplaceAll)
 let metodoSlice = "Cortemos esta string"
 
 console.log(metodoSlice.slice(9, -1))
+
+let metodoToLowerCase = "TODO EN MAYUSCULAS"
+
+console.log(metodoToLowerCase.toLowerCase())
