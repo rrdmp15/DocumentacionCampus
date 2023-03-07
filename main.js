@@ -52,3 +52,7 @@ console.log(metodoToLowerCase.toLowerCase())
 let metodoToUpperCase = "todo en minisculas"
 
 console.log(metodoToUpperCase.toUpperCase())
+
+let metodoTrim = "    Black     "
+
+console.log(metodoTrim.trim())
