@@ -29,3 +29,7 @@ let metodoLocaleCompare = "ABC"
 let metodoLocaleCompare1 = "DEF"
 
 console.log(metodoLocaleCompare.localeCompare(metodoLocaleCompare1))
+
+let metodoRepeat = "REPITE"
+
+console.log(metodoRepeat.repeat(3))
