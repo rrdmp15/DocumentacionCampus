@@ -1,5 +1,5 @@
-let incremento = 20;
+let decremento = 20;
 
-++incremento;
+--decremento;
 
-console.log(incremento);
+console.log(decremento);
