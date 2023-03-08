@@ -1,3 +1,3 @@
-let positivo = true;
+let exponente = 2**2;
 
-console.log(+positivo);
+console.log(exponente);
