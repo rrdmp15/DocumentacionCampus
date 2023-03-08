@@ -1,3 +1,3 @@
-let abs = Math.abs(-8);
+let acos = Math.acos(-1);
 
-console.log(abs);
+console.log(acos);
