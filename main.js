@@ -1,3 +1,3 @@
-let exponente = 2**2;
+let abs = Math.abs(-8);
 
-console.log(exponente);
+console.log(abs);
