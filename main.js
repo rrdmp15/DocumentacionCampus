@@ -1,3 +1,3 @@
-let ceil = Math.ceil(-9.237);
+let cos = Math.cos(0.8);
 
-console.log(ceil);
+console.log(cos);
