@@ -1,3 +1,3 @@
-let asin = Math.asin(0.3);
+let atan = Math.atan(158);
 
-console.log(asin);
+console.log(atan);
