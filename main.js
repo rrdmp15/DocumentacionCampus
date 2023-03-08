@@ -1,3 +1,3 @@
-let round = Math.round(7.236);
+let sin = Math.sin(0.852);
 
-console.log(round);
+console.log(sin);
