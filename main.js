@@ -1,3 +1,3 @@
-let acos = Math.acos(-1);
+let asin = Math.asin(0.3);
 
-console.log(acos);
+console.log(asin);
