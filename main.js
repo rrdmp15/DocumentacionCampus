@@ -1,3 +1,3 @@
-let floor = Math.floor(7.36954);
+let max = Math.max(3,5,9,4,6);
 
-console.log(floor);
+console.log(max);
