@@ -1,3 +1,3 @@
-let pow = Math.pow(3,5);
+let random = Math.random();
 
-console.log(pow);
+console.log(random);
