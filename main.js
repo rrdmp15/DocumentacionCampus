@@ -1,3 +1,3 @@
-let atan2 = Math.atan2(150, 90);
+let ceil = Math.ceil(-9.237);
 
-console.log(atan2);
+console.log(ceil);
