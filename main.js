@@ -1,5 +1,3 @@
-let decremento = 20;
+let negacion = 20;
 
---decremento;
-
-console.log(decremento);
+console.log(-negacion);
