@@ -1,3 +1,3 @@
-let random = Math.random();
+let round = Math.round(7.236);
 
-console.log(random);
+console.log(round);
