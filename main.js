@@ -1,3 +1,3 @@
-let sin = Math.sin(0.852);
+let sqrt = Math.sqrt(78542);
 
-console.log(sin);
+console.log(sqrt);
