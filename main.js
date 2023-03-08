@@ -1,3 +1,3 @@
-let atan = Math.atan(158);
+let atan2 = Math.atan2(150, 90);
 
-console.log(atan);
+console.log(atan2);
