@@ -1,8 +1,5 @@
-let igual = 17
+let igualito = "mi nombre"
 
-console.log(igual == "17")
-
-let diferente = 18
-
-console.log(igual == diferente)
+console.log(igualito === "Mi Nombre")
+console.log(igualito === "mi nombre")
 
