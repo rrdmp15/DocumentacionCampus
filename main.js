@@ -1,5 +1,6 @@
-let igualito = "mi nombre"
+let noIgualito = "4"
 
-console.log(igualito === "Mi Nombre")
-console.log(igualito === "mi nombre")
+console.log(noIgualito !== 4)
+console.log(noIgualito !== "3")
+console.log(noIgualito !== "4")
 
