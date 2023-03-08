@@ -1,3 +1,3 @@
-let cos = Math.cos(0.8);
+let exp = Math.exp(5);
 
-console.log(cos);
+console.log(exp);
