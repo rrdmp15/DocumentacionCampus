@@ -1,3 +1,5 @@
-let residuo = 20 % 6;
+let incremento = 20;
 
-console.log(residuo)
+++incremento;
+
+console.log(incremento);
