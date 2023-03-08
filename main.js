@@ -1,3 +1,3 @@
-let exp = Math.exp(5);
+let floor = Math.floor(7.36954);
 
-console.log(exp);
+console.log(floor);
