@@ -1,3 +1,3 @@
-let negacion = 20;
+let positivo = true;
 
-console.log(-negacion);
+console.log(+positivo);
