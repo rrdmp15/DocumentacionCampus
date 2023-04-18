@@ -1,3 +1,3 @@
-let sqrt = Math.sqrt(78542);
-
-console.log(sqrt);
+document.querySelector("#btn").addEventListener("click", ()=>{
+    alert("hiciste click en un boton");
+})
